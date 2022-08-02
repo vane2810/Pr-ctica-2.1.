@@ -8,7 +8,7 @@ namespace Práctica_2._8
         {
             Console.WriteLine("Ingrese un número:");
             int num1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese otro número");
+            Console.WriteLine("Ingrese otro número: ");
             int num2 = int.Parse(Console.ReadLine());
             var division = num1 / num2;
 

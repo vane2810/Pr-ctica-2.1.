@@ -8,7 +8,7 @@ namespace Práctica_2._7
         {
             Console.WriteLine("Ingrese un número:");
             int num1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese otro número");
+            Console.WriteLine("Ingrese otro número: ");
             int num2 = int.Parse(Console.ReadLine());
             var multiplicacion = num1 * num2;
 

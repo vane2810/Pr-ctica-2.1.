@@ -8,7 +8,7 @@ namespace Prática_2._6
         {
             Console.WriteLine("Ingrese un número:");
             int num1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese otro número");
+            Console.WriteLine("Ingrese otro número: ");
             int num2 = int.Parse(Console.ReadLine());
             var resta = num1 - num2;
 
