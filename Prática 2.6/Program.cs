@@ -12,7 +12,7 @@ namespace Prática_2._6
             int num2 = int.Parse(Console.ReadLine());
             var resta = num1 - num2;
 
-            Console.WriteLine("La suma de los números es : {0}", resta);
+            Console.WriteLine("La resta de los números es : {0}", resta);
         
         }
     }
