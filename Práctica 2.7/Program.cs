@@ -12,7 +12,7 @@ namespace Práctica_2._7
             int num2 = int.Parse(Console.ReadLine());
             var multiplicacion = num1 * num2;
 
-            Console.WriteLine("La suma de los números es : {0}", multiplicacion);
+            Console.WriteLine("La multiplicación de los números es : {0}", multiplicacion);
         
         }
     }
